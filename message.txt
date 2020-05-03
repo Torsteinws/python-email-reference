@@ -1,0 +1,6 @@
+Hello ${PERSON_NAME},
+
+This message is sent from a bot.
+
+Best regards, 
+Botten Anna
