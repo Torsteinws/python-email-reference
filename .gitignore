@@ -4,3 +4,6 @@
 
 # Visual studio code tools
 .vscode
+
+# Why does this folder automaticly spawn ??
+__pycache__
